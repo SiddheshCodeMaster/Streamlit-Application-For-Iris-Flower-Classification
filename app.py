@@ -32,7 +32,7 @@ if selected == 'Logistic Regression':
     with col2:
         Sepal_width = st.text_input("Enter the Sepal Width(in cms):")
     with col3:
-        petal_length = st.text_input("Enter the Petal Lenght(in cms):")
+        petal_length = st.text_input("Enter the Petal Length(in cms):")
     with col4:
         petal_width = st.text_input("Enter the Petal Width(in cms):")        
 
